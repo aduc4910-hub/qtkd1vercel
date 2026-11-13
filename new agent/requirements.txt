@@ -1,0 +1,9 @@
+# Các thư viện phụ thuộc cho Python (tùy chọn)
+# Chạy với Python tiêu chuẩn (Standard Library: json, dataclasses, os, sys, datetime, typing)
+# Không bắt buộc cài thêm thư viện ngoài.
+
+# Nếu muốn tích hợp LLM (OpenAI / Google Gemini API):
+# google-genai>=0.1.0
+# openai>=1.0.0
+# pydantic>=2.0.0
+
